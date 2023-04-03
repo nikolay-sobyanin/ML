@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # C extensions
-*.so
+c
 
 # Distribution / packaging
 .Python
@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 ./idea
+
+*.rar
